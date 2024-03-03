@@ -1,4 +1,4 @@
-# Django ToDo App Overview
+# Django Weather App Overview
 
 ## Introduction
 
